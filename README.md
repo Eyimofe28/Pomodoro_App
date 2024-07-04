@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-This project is a graphical user interface (GUI) application implementing the Pomodoro Technique using the `tkinter` library in Python. The Pomodoro Technique is a time management method that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks. The application helps users manage their time efficiently by providing a timer that alternates between work periods and breaks. This code is modular and easy to understand. It is a great starting point for those interested in learning about GUI development in Python.
+In this project, I implemented the Pomodoro Technique in a graphical user interface (GUI) application using the `tkinter` library in Python. The Pomodoro Technique is a time management method that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks. The application helps users manage their time efficiently by providing a timer that alternates between work periods and breaks. This code is modular and easy to understand. It is a great starting point for those interested in learning about GUI development in Python.
 
 ## Features
 
